@@ -1,4 +1,5 @@
 .. index:: ! contract
+.. _contracts:
 
 ##########
 Contracts

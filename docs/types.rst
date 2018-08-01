@@ -359,8 +359,9 @@ check the value ranges at runtime and a failure causes an exception.  Enums need
 Contracts
 ---------
 
-Contracts themselves are their own individual type, as defined by their contract, that you can
-call from another contract. For example (where ``Token`` is a contract) ::
+A contract type is defined by its :ref:`smart contract definition <contracts>`,
+that you can call from another contract. For example (where ``Token`` is a
+contract) ::
 
   Token token = new Token();
 
